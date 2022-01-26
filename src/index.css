@@ -14,3 +14,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+html{
+
+  background-color: rgba(26,32,44,1);
+  height: 100%;
+  background-attachment: scroll;
+}
