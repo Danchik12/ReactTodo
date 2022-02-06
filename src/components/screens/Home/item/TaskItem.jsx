@@ -11,7 +11,7 @@ p-5 w-full'
 <button className='flex items-center' onClick={() => changeTask(task._id)}>
 <Check isCompleted={task.isCompleted}/>
 <span className={cn({
-	'line-through':task.isCompleted,
+	'line-through text-gray-600':task.isCompleted,
 })}>
 {task.title}
 </span>

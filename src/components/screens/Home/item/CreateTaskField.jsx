@@ -3,12 +3,13 @@ import React, {  useState } from 'react'
 const CreateTaskField = ({setTasks}) => {
 const [title,setTitle]=useState('')
 	const addTask = (title) => {
-		setTasks (prev =>[{
+		setTasks (prev =>[...prev,
+			{
 			_id:new Date(),
 			title:title,
 			isCompleted:false,
 
-		},...prev,
+		},
 		])
 		setTitle('')
 
