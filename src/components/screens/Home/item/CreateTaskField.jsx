@@ -12,6 +12,7 @@ const [title,setTitle]=useState('')
 		},
 		])
 		setTitle('')
+		
 
 	}
 
