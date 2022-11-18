@@ -1,3 +1,4 @@
+
 import React from 'react';
 
 const Layout=({children}) => {
@@ -9,5 +10,6 @@ const Layout=({children}) => {
 )
 		
 }
+
 
 export default Layout

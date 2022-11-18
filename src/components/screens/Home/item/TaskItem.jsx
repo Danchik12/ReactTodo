@@ -1,3 +1,4 @@
+
 import React from 'react'
 import Check from './Check'
 import cn from 'classnames'
@@ -22,5 +23,6 @@ p-5 w-full'
 </div>
 )	
 }
+
 
 export default TaskItem
