@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d356da23-7c46-4361-acfb-91b43bb1762c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/react-todo-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout/Layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/Layout.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/screens/Home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screens/Home/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/screens/Home/item/CreateTaskField.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screens/Home/item/CreateTaskField.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/screens/Home/item/TaskItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/screens/Home/item/TaskItem.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668761763109</updated>
-      <workItem from="1668761767497" duration="5105000" />
+      <workItem from="1668761767497" duration="6348000" />
     </task>
     <servers />
   </component>

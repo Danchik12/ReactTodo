@@ -61,7 +61,7 @@ hover:text-red-600 transition-colors ease-in-out duration-300' onClick={() => fi
 <button  className='w-[70px] h-[35px] bg-gray-800  mr-4 border-2 rounded-full hover:border-red-600 
 hover:text-red-600 transition-colors ease-in-out duration-300' onClick={() => filteredTask(false)}>Open</button>
 <button className='w-[70px] h-[35px] bg-gray-800 border-2 rounded-full hover:border-red-600 
-hover:text-red-600 transition-colors ease-in-out duration-300' onClick={() => filteredTask(true)}>Clossed</button>
+hover:text-red-600 transition-colors ease-in-out duration-300' onClick={() => filteredTask(true)}>Closed</button>
 </div>
 <CreateTaskField setTasks={setTasks}/>
 {filtered.map(task =>
